@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# My Notes & Reflections
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+_This book is a collection of my notes on some topics in deep learning and machine learning. I’ve put them together mainly for fun and as a way to strengthen my own understanding while revisiting important concepts. I hope they might also serve as a simple and useful resource for anyone who is curious about the subject or just starting out._
